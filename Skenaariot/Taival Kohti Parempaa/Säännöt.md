@@ -1,0 +1,1 @@
+Skenaarion käyttämät säännöt on tiivistetty [pelaajakirjasessa](https://docs.google.com/document/d/1AjzqfL0PplKItAR20tnNiv9_APLmWOLkPTL7fX8cg8w/edit?tab=t.0#heading=h.jl11d7m8852c).

@@ -1,0 +1,12 @@
+PJ tekee ennen sessiota:
+- [Vaivat](Skenaariot/Taival%20Kohti%20Parempaa/Vaivat.md) kopioi
+- Guyuk kuvailu
+- Julistus: puolustaa, uhka, kontrolli, vakoilu, heraldi lukee, voimadiplomatia
+- Writepad
+	- Statusnote
+		- Mittarit, time
+	- Players
+		- Taidot, vaivat, kaikki muu
+- Taltioi lore: saha, valhe DC
+- More legends
+- RM THIS DOC

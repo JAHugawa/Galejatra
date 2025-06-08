@@ -1,0 +1,89 @@
+- Hahmonluonti
+	- Kopioi tekstit TKP-docsista, kirjoita auki ja uudelleenorganisoi
+		- Perussäännöt: taidot sis. taitopisteet
+		- Moduuli: Ammattit
+	- Hahmokehitys
+		- Levossa
+- Taistelu / tilanne
+	- Vuorojärjestys
+	- Pelaajat reagoivat vihollisiin - pelaajanarratio edellä
+	- Kodifioi optiot
+		- Etene
+		- Vahvista
+		- Heikennä: kasu Hidasta
+		- Auta
+		- Harhauta
+		- Torju
+		- Peräänny
+- Vaivat
+	- Iteraatio 2
+		- Heiton sääntöteksti: mainitse että vaiva voi vähentää
+		- Kodifioi vaivojen aiheuttaminen vihollisille?
+		- Var A:
+			- Kaksi numeroa, vakavuus & parantuminen. Jälkimmäisen voi muuttaa mittariksi levossa
+			- Parantuminen: vaivan luonteeseen sopiva taito. Marginaalin verran edistystä. Heiton vastanopat = vakavuus.
+		- Var B:
+			- Yksi numero, vakavuus. Parantuminen vaivan luonteeseen sopiva taito, vastanoppia 1+vakavuus. Jos onnistuu, vakavuus-1
+		- Luonnollinen parantuminen: vaiva vaikuttanut heittoon N(2) kertaa > paranee yhdellä pykälällä.
+		- Parantaminen
+			- Potilas & parantaja-kohtaiset rajat?
+		- Perus- ja laajennetut säännöt - jälkimmäiset käyttöön, kun pelaajat tottuneet
+	- Laajennetut vaivat
+		- sairaus: taudista riippuen -N fyysiset / henkiset / kaikki
+		- Kertyvät haitat
+			- Märkä
+			- Uupunut
+			- Myrkky: estä leviäminen, tai pahenee. Myrkkyjä erilaisia, lieviä (jytympi nokkonen) ja kuolemanvakavia (salamurhamyrkyt).
+		- kirous: -N kun olet lähellä **kohdetta**
+		- Työkalujen menetys - ei vaiva, mutta heiton hinta, kodifioi miten?
+# Dojallanee
+- Vaivat - iteroi TKP palautteen pohjalta
+	- sovellus: GM tietää pelaajan lapun > vaiva räätälöitävissä spesifiin taitoon?
+# Dojallanee dalai
+- Heitto
+	- Marginaali
+	- Osittainen onnistuminen
+	- Hinta - yritä koontaa
+		- Käänteet vapaamuotoisia?
+	- Vihollinen haittaa > nopan vähennyt? Vaiko vastanopan etu?
+	- Toistuva este?
+		- Vain jos tilanne tavallista mutkikkaampi?
+		- Vrt. SAS poukamaan ohjaaminen
+		- Alati vaikeutuva / helpottuva este?
+	- Salaiset vastanopat?
+	- Kasute / tynnyrinvarastus
+		- Lukitse lähestymistapa ennen heittoa
+			- Turvallinen: vähemmän saalista, mutta pienempi Haaste, marginaalin vaikutus heikompi
+			- Riski: isompi potentiaali, mutta isompi riski, ja mahdollisuus jäädä tyhjin käsin
+			- Marginaali: perustapaus, vaihtoehtoisesti +/- askeleet suhteessa marginaaliin, min & max
+- PJ työkalut
+	- Seuraukset - heitä taulukosta. Heiton hinta, 
+	- Vaikeustaso VT
+		- TB2 laske tekijät? Miten kodifioida tilanteet, kun ei rigidiä taitokategorisointia?
+		- Oletus keskitasoa, tuunaa sen mukaan kuinka paljon heitolla voi saavuttaa
+- Ansaitut Voimat
+	- Ansaitaan pelin aika, hankinta keskeinen tarinaelementti
+	- Toimivat varmasti. Iso impakti. Käyttö vain kerran > valinta ja ennaltanähty dramatiikka.
+	- Testiskenaario: Viimeinen Mandirana
+- daring do:
+	- heroes are daring. more dice for more daring actions
+	- hero aspects: each one included in narration gives dice. Fearless, shift as wind, graceful...
+	- alt: if hero aspects do not play out, test other mechanics. test later with different players
+
+# Isaki
+- Inspiraatio muista ropeista
+	- [Mothership](file:///C:/Users/jahugawa/jada/games/roleplaying/systems/mothership/player_survival_guide_v12.pdf) kahila elfiela nuul, selni parhaat palat
+- Esineet
+	- Esineiden ja tarvikkeiden eriytys? Items. vs supplies TB2?
+	- Kasute yrttien kerääminen vaivojen parantamiseksi levossa
+		- Vaikeustaso VT annosmäärän mukaan? Vai onko VT vakio, ja onnistuessaan tuoreita yrttejä (kestävät tämän levon ajan)? Miten kodifioida nämä vaikutukset s.e. GM helppo tehdä tarinallisesti järkeviä tulkintoja.
+- Heitot
+	- Palautuminen
+		- Oletuksena kerran päivässä. Päivä on aikayksikkö, jonka pelinjohtaja voi korvata toisella.
+		- Vaihtoehtoisesti, esittele tarinan ajan kuluun liittyvä termistö. Seikkailu, kohtaus, lepo jne. Pidä ne aika-agnostisina.
+- PJ työkalut
+	- Tasapainoilu
+		- Taitojen & Vaikeustason asettamiseen, seuraa numeroita pelin aikana > tuunaa jälkeenpäin. Iteratiivinen lähtökohta. Hyväksymme, että tarina > numerot.
+		- Pelaajat seuraavat: hahmo-ominaisuuden käyttö maksaa pisteen. Pisteitä tulee N/sessio, maksimivarasto M. Näin käyttö tasapainottaa itsensä, ja pistemäärä on helppo parametri säätä
+- Tilanteet
+	- Matka

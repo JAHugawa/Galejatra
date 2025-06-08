@@ -1,0 +1,1 @@
+Tämä osio sisältää skenaarioiden materiaalin pelin vetäjälle. Lue varoen, osio on täynnä spoilereita!

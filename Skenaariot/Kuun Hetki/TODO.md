@@ -1,0 +1,28 @@
+Dalai
+- Toismaailma
+	- Yliluonnolliset elävät toismaailman ja reaalimaailman risteyksessä
+	- Kuolevaiset koskettavat toismaailmaa unissaan ja unelmissaan
+- DOJA Aikakirja
+	- Muinaisella DOJA:kansa kirjoitusmerkeillä dokumentoitu unet, jotka eivät ole tapahtuneet. Kun ne tapahtuvat, ne katoavat kirjasta. Kirja siis kertoo kaiken, mitä voi olla tulevaisuudessa - mutta mennyttä se ei voi muuttaa.
+	- Kirjassa on loputtomasti sivuja, mutta sillä on vakiopaksuus. Kun kirjasta etsii jotain, sivut pläräävät, kunnes oikea kohta on auki - olettaen, että asia on kirjaan dokumentoitu.
+- Kultti
+	- Nimi: unen enkelit?
+	- Koska syntyi? Kuka saattoi alulle?
+	- Miten selvisi historian halki?
+	- Miten hajanaiset solut tunnistavat toisensa? Ikonit, musiikki, sloganit & tunnussanat (fraasipari).
+- Hahmoja
+	- Go-oraakkeli: haasta paikallisottelussa. Jos voittaa, kertoo kultista
+- Hahmonluonti
+	- Taidot
+		- Yliluonnollinen: paljastuu pelin aikana, ekan kohtaamisen jälkeen
+			- Kehitys: yliluonnollisten kohtaamisten jälkeen (setvi post-sessio, sujuvuus)
+			- Sukella toismaailmaan: 
+				- disbelieving keeps you safe...
+				- believing shakes you, giving a Vamma / lievä, to mundane stuff, but also once-usable die to supernatural rolls
+	- Trauma
+		- Vapaaehtoinen, mutta vahvasti suositeltu
+		- Each character has a trauma; encountering it gives Vamma / vakava, related to trauma
+		- Narrative path of progression to overcome the past
+		- each time trauma is faced and character moves forwarf, Traumamittari+1
+		- player decides, narratively, when they have overcome trauma. at that point, Traumamittari/2 round up is converted to a new Skill Trait e.g. courageous
+			- players get narrative control, while there is incentive to go longer; but it is not forced

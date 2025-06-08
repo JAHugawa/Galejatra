@@ -1,0 +1,46 @@
+/* setup colors */
+:root {	
+	--hint-borders: #45818e;
+    --hint-bg: #d0e0e3;
+    --obstacle-borders: #a61c00;
+    --obstacle-bg: #e6b8af;
+}
+
+/* hide special tags used for styling */
+& [href="#_hint"] { display: none; }
+& [href="#_obstacle"] { display: none; }
+
+.table-wrapper:has([href="#_hint"]),	/* EDIT MODE */
+table:has([href="#_hint"])				/* PREVIEW MODE */
+{
+	/* hide the header row since it would break numbering */
+	& thead { display: none; }
+
+	/* add borders around everything */
+	&, & td { border: 1px solid var(--hint-borders); }
+
+	/* background color */
+	& tr { background-color: var(--hint-bg); }
+	
+	/* set a minimum height when there's no cell content */
+	& tr { height: 27px; }
+}
+
+.table-wrapper:has([href="#_obstacle"]),	/* EDIT MODE */
+table:has([href="#_obstacle"])				/* PREVIEW MODE */
+{
+	/* hide the header row since it would break numbering */
+	& thead { display: none; }
+
+	/* add borders around everything */
+	&, & td { border: 1px solid var(--obstacle-borders); }
+
+	/* center everything */
+	& td { text-align: center; }
+
+	/* background color */
+	& tr { background-color: var(--obstacle-bg); }
+	
+	/* set a minimum height when there's no cell content */
+	& tr { height: 27px; }
+}

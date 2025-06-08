@@ -1,0 +1,1 @@
+Tämä osio sisältää pelisuunnittelijalle tarkoitetun materiaalin. Pelaajien ja pelinvetäjien ei tarvitse lukea näitä sivuja. Jos selaat näitä sivuja omasta kiinnostuksesta, spoilerit omalla vastuulla.
